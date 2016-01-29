@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sc_jar</output-path>
+    <root id="archive" name="sc.jar">
+      <element id="module-output" name="sc" />
+    </root>
+  </artifact>
+</component>
